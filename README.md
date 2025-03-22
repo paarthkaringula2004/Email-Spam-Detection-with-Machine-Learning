@@ -23,9 +23,6 @@ The dataset used in this project is sourced from public spam datasets. It contai
 
 ## Usage
 1. Open the Jupyter Notebook:
-   ```sh
-   jupyter notebook
-   ```
 2. Load and preprocess the dataset.
 3. Train different machine learning models and compare their performance.
 4. Evaluate the model using classification metrics.
@@ -39,11 +36,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries or discussions, feel free to reach out.
-
----
-
-Let me know if you need modifications! 🚀
-
